@@ -1,9 +1,5 @@
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 2 (Dijkstra algorithm)
  */
 public class Dijkstra {
 

@@ -2,10 +2,6 @@ import java.util.*;
 
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 2 (Dijkstra algorithm)
  * <p>
  * Class that represents an undirected graph with nodes and edges
  * Each edge connecting two nodes has a cost that is represented

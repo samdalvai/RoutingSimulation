@@ -2,10 +2,6 @@ import java.util.*;
 
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 3 (Distance vector algorithm)
  * <p>
  * This class represents a Routing Table consisting of a router label and
  * a List of Routing Entries

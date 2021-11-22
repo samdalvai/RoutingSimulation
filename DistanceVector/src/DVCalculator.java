@@ -2,10 +2,6 @@ import java.util.*;
 
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 3 (Distance vector algorithm)
  * <p>
  * This class contains methods that combine RoutingTable objects and a Graph object
  * in order to compute the Distance Vector Algorithm for the computation of routing

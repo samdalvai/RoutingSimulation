@@ -2,10 +2,6 @@ import java.util.Objects;
 
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 3 (Distance vector algorithm)
  * <p>
  * Class that is used as a building block for RoutingTable class. Represents one entry
  * in the table consisting of destination router, next hop router and cost of the connection.

@@ -3,10 +3,6 @@ import java.util.List;
 
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 2 (Dijkstra algorithm)
  * <p>
  * Class that represents a routing table as a table
  * containing the name of the router and the list

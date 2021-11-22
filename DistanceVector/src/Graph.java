@@ -2,10 +2,6 @@ import java.util.*;
 
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 3 (Distance vector algorithm)
  * <p>
  * Class that represent a graph consisting of nodes and connections between them
  * The edges of a node are undirected, which means that if node A is connected to B,

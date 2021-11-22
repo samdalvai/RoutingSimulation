@@ -4,10 +4,6 @@ import java.util.List;
 
 /**
  * Author: Samuel Dalvai
- * Student ID: 17682
- * Email: samdalvai@unibz.it
- * Course: Computer Networks 2020/2021
- * Assignment 3 (Distance vector algorithm)
  * <p>
  * Utilities for file manipulation
  */
